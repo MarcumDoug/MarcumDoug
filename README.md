@@ -5,7 +5,7 @@
 💬 Ask me about ... anything. I am an open book.  
 😄 Pronouns: He/Him  
 
-My respositories are a collection of projects I have been working on over the last year. Please take a look an let me know what you think.  
+My respositories are a collection of projects I have been working on over the last year or so. Please take a look and let me know what you think.  
 
 <!--
 **MarcumDoug/MarcumDoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
